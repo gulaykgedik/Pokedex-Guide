@@ -16,12 +16,20 @@ Uygulama, bir API kullanarak Pokémon kartlarının verilerini çeker ve kullan�
 
 
 
+
 ## Kullanılan Teknolojiler 💻
 <br/>
+
 ✨ **HTML**: Uygulamanın temel yapısı.
+
 ✨ **CSS**: Tasarım ve stil düzenlemeleri.
+
 ✨ **JavaScript**: Dinamik veri çekme ve kullanıcı etkileşimleri.
+
 ✨ **API**: Pokémon kart verilerinin dinamik olarak alınması.
+
+
+
 
 ## Ekran Görüntüleri 📸
 <br/>
