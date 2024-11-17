@@ -7,9 +7,13 @@ Uygulama, bir API kullanarak Pokémon kartlarının verilerini çeker ve kullan�
 <br/>
 
 ✨  **Pokémon Kartları Listeleme**: Tüm Pokémon kartlarını çekerek listeler.
+
 ✨ **Kart Detayları**: Seçilen kartın detaylı bilgilerini gösterir.
+
 ✨ **Duyarlı Tasarım**: Hem masaüstü hem de mobil cihazlara uygun tasarım.
+
 ✨ **Basit ve Hızlı Kullanım**: HTML, CSS ve JavaScript ile kullanıcı dostu arayüz.
+
 
 
 ## Kullanılan Teknolojiler 💻
